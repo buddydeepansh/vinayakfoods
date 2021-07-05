@@ -8,6 +8,14 @@
     font-family: 'Roboto','sans-serif';
 }
 
+html{
+overflow: auto;
+}
+
+body{
+overflow: auto;
+}
+
 header{
     position: relative;
     background-image: url('images/logo-removebg.png');
